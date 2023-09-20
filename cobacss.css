@@ -1,0 +1,36 @@
+<!DOCTYPE html>
+<html>
+<head>
+<style>
+  body {
+    margin: 0;
+    padding: 0;
+    background-image: url("https://images5.alphacoders.com/131/1317711.jpeg");
+    background-size: cover;
+    background-position: center;
+    font-family: Arial, sans-serif;
+    color: #fff;
+  }
+
+  .content {
+    text-align: center;
+    padding: 100px;
+  }
+
+  h1 {
+    font-size: 36px;
+    margin-bottom: 10px;
+  }
+
+  p {
+    font-size: 18px;
+  }
+</style>
+</head>
+<body>
+  <div class="content">
+    <h1>Selamat Datang</h1>
+    <p>Selamat datang di website kami.</p>
+  </div>
+</body>
+</html>
